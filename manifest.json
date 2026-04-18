@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "u-cursos-foxy",
+  "version": "1.0", 
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "u-cursos-foxy@Rajevic-0",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.u-cursos.cl/*"],
+      "js": ["foxy.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["foxy.webm"],
+      "matches": ["*://*.u-cursos.cl/*"]
+    }
+  ]
+}
