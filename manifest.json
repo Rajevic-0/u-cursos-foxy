@@ -10,7 +10,9 @@
       }
     }
   },
-
+  "icons": {
+    "128": "icons/icon.png"
+  },
   "content_scripts": [
     {
       "matches": ["*://*.u-cursos.cl/*"],
