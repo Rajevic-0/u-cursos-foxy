@@ -1,7 +1,8 @@
 {
   "manifest_version": 3,
   "name": "u-cursos-foxy",
-  "version": "1.0", 
+  "version": "1.0",
+  "homepage_url": "https://github.com/Rajevic-0/u-cursos-foxy",
   "browser_specific_settings": {
     "gecko": {
       "id": "u-cursos-foxy@Rajevic-0",
