@@ -1,7 +1,9 @@
+const browserAPI = typeof browser !== "undefined" ? browser : chrome;
+
 function showVideo() {
   const video = document.createElement("video");
 
-  video.src = browser.runtime.getURL("foxy.webm");
+  video.src = browserAPI.runtime.getURL("foxy.webm");
   video.autoplay = true;
   video.muted = false; 
   video.style.position = "fixed";
