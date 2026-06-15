@@ -5,7 +5,7 @@
   "homepage_url": "https://github.com/Rajevic-0/u-cursos-foxy",
   "browser_specific_settings": {
     "gecko": {
-      "id": "u-cursos-foxy@Rajevic-0",
+      "id": "u-cursos-foxy-v0@Rajevic-0",
       "data_collection_permissions": {
         "required": ["none"]
       }
