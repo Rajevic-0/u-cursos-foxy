@@ -7,9 +7,12 @@ Extension de firefox/chrome la cual permite que cada segundo el jumpscare de fox
 ## Link de Descarga
 
 Instálala aquí:
-https://addons.mozilla.org/es-MX/firefox/addon/u-cursos-foxy/
+- ![Chrome](https://img.shields.io/badge/Google_Chrome-4285F4?style=flat&logo=google-chrome&logoColor=white) Pronto
+- ![Firefox](https://img.shields.io/badge/Mozilla_Firefox-FF7139?style=flat&logo=firefox&logoColor=white)  https://addons.mozilla.org/es-MX/firefox/addon/u-cursos-foxy/
 
 ## Uso
 
-Para que esta extencion funcione se tiene que permitir la reproduccion de videos automatica en u-cursos.
+Para que esta extensión funcione se tiene que permitir 
+- ![Chrome](https://img.shields.io/badge/Google_Chrome-4285F4?style=flat&logo=google-chrome&logoColor=white) Audio y ventanas emergentes en u-cursos.
+- ![Firefox](https://img.shields.io/badge/Mozilla_Firefox-FF7139?style=flat&logo=firefox&logoColor=white) Reproduccion de videos automatica en u-cursos.
 
