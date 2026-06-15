@@ -1,5 +1,5 @@
 # 🦊 u-cursos-foxy
-Extension de firefox la cual permite que cada segundo el jumpscare de foxy puede reproducirse con un 0.001% de probabilidad
+Extension de firefox/chrome la cual permite que cada segundo el jumpscare de foxy puede reproducirse con un 0.001% de probabilidad
 <div align="center">
   <img src="https://github.com/Rajevic-0/u-cursos-foxy/blob/main/icons/Full_Icon.png" style="width: 30%;">
 </div>
