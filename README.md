@@ -7,7 +7,7 @@ Extension de firefox/chrome la cual permite que cada segundo el jumpscare de fox
 ## Link de Descarga
 
 Instálala aquí:
-- ![Chrome](https://img.shields.io/badge/Google_Chrome-4285F4?style=flat&logo=google-chrome&logoColor=white) Pronto
+- ![Chrome](https://img.shields.io/badge/Google_Chrome-4285F4?style=flat&logo=google-chrome&logoColor=white) https://chromewebstore.google.com/detail/u-cursos-foxy/nklpdmpkpcjnididlefelgfiegcnbmbo?hl=es-419
 - ![Firefox](https://img.shields.io/badge/Mozilla_Firefox-FF7139?style=flat&logo=firefox&logoColor=white)  https://addons.mozilla.org/es-MX/firefox/addon/u-cursos-foxy/
 
 ## Uso
